@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Week2Lab1/ProductCatalog?WSDL" uri="xml-resources/web-service-references/ProductCatalog/wsdl/localhost_8080/Week2Lab1/ProductCatalog.wsdl"/>
+    <system systemId="http://localhost:8080/Week2Lab1/ProductCatalog?xsd=1" uri="xml-resources/web-service-references/ProductCatalog/wsdl/localhost_8080/Week2Lab1/ProductCatalog.xsd_1.xsd"/>
+</catalog>
